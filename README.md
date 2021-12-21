@@ -171,5 +171,4 @@ Introduction to javascript
 
 -------- CLOSING OF THE JUNIOR LEVEL --------
 
-Translated with www.DeepL.com/Translator (free version)
 
