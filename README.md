@@ -1,5 +1,5 @@
-#CURSO COMPLETO NIVELATORIO DE JavaScript
-Bienvenidx, he realizado este curso para poder seguir realizando training en proyectos y fortalecer mi logica y razonamiento para plantear e implementar soluciones en JavaScript.
+#CURSO COMPLETO NIVELATORIO DE  <img align="center" alt="juan-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <br>
+Bienvenidx, he realizado este curso para poder seguir realizando training en proyectos y fortalecer mi logica y razonamiento para plantear e implementar soluciones en JavaScript. 
 Super recomendado este curso y @lucasdalto lo considere un gran tutor de habla hispana.
 
  Curso Nivelatorio by Lucas Dalto
@@ -86,7 +86,7 @@ Introducción a javascript
 -------- CIERRE DEL NIVEL JUNIOR --------
 
 ----------------------------------------------------------------------------------------------------------------------------------
-#COMPLETE LEVEL COURSE ON JavaScript
+#COMPLETE LEVEL COURSE ON JavaScript <img align="center" alt="juan-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <br>
 
 
 Welcome, I have taken this course to be able to continue training in projects and strengthen my logic and reasoning to raise and implement solutions in JavaScript.
