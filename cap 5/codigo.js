@@ -20,7 +20,7 @@ const materias = {  //usamos const porque las notas cerraron asi y no van a camb
     BDD: [98,9,1,"BDD"],
     algebra: [100,10,4,"algebra"], //re crack en algebra
 }
-const asistencia = () =>{
+const aprobo = () =>{
     for (materia in materias) {
 
         let asistencias = materias[materia][0]; 
@@ -29,15 +29,24 @@ const asistencia = () =>{
         
         console.log(materias[materia][3]);
         
-         if (asistencias >= 90) {
-            console.log("%c   Aprobado", "color:green");
+        if (asistencias >= 90) {
+            console.log("%c    Asistencias en orden", "color:green");
         } else {
-            console.log(materias[materia][3]);
-            console.log("%c   Desaprobado", "color:red");
+            console.log("%c    Falta de Asistencias", "color:red");
         }
-        if (true) {}
+        if (promedio >= 7) {
+        console.log("%c Promedio en orden", "color:green");
+        } else {
+            console.log("%c Promedio desaprobado", "color:red");
+        }
+        if (trabajos >=3) {
+            console.log("%c   Trabajos prácticos en Orden", "color:green");
+        } else {
+            console.log("%c   Faltan trabajos practicos", "color:red");
+        }
     }
 }
+
 aprobo()
 
 
