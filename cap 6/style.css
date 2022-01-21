@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family:'Dongle', sans-serif; 
+    background-color:lightyellow;
+}
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	color: #333;
+	font-family: sans-serif;
+}
+
+
+.flex-item {
+	flex-grow: 1;
+	margin: 20px;
+	max-width: 300px; /*ancho de pag*/
+	border: 2px solid #333;
+	padding: 0 20px; /*el q esta en 0 es el padding top*/
+}
+
+.flex-item:hover {
+	border-color: #1e2887;
+	box-shadow: 0px 0px 30px #170875;
+}
+.flex-item:focus {
+	border-color: #1e2887;
+	box-shadow: 0px 0px 30px #170875;
+}
+
+h2,h3 {
+	margin: 0;
+}
+
+h3 {
+	color: #999
+}
+
+p b {
+	color: #d3c60e
+}
+
+.llave-img {
+	width: 300px;
+}
+
+
+form {
+	width: 100%;
+	text-align: center;
+	padding: 50px;
+}
+
+input[type="submit"]{
+	background: #1e2887;
+	color: #fff;
+	border: none;
+	padding: 12px 36px;
+	font-size: 17px;
+	letter-spacing: 1px
+}
