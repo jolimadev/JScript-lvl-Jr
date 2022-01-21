@@ -6,3 +6,7 @@
   Entonces tu como programador deberas crear un sistema que:</h2><br>
   <p>- Indique las 20 llaves posibles con sus 4 imgenes y cofla debe seleccionar cual llave usar.</p>
   <p>- Una vez seleccionada enviar los datos al servidor y que otro programador se encargue del resto.</p>
+
+--------------------------------------------------------------------------------------------------
+![cap6keys](https://user-images.githubusercontent.com/84105167/150599262-6c032273-57e3-4f01-bb65-d02ff029cc2d.png)
+(si use una llave voladora de harry potter jeje)
